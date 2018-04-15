@@ -1,0 +1,15 @@
+Wave Raiders is a 2-player competitive game where two viking ships fight each other on the rolling waves of the sea, sky, and SPACE!
+
+Controls:
+
+Red Boat:
+A/D - Move left and right
+W - Fire lob cannon
+S - Fire standard cannon
+X - Fire torpedo
+
+Blue Boat:
+Left Arrow/Right Arrow - Move left and right
+Enter Key - Fire lob cannon
+Up Arrow - Fire standard cannon
+Down Arrow - Fire torpedo
