@@ -44,9 +44,9 @@ public class Wave : MonoBehaviour
     void Start ()
     {
         stepWidth = (lastPosition.position.x - firstPosition.position.x) / numPoints;
-        lineRenderer.numPositions = numPoints;
-        belowRenderer.numPositions = numPoints;
-        bottomRenderer.numPositions = numPoints;
+        lineRenderer.positionCount = numPoints;
+        belowRenderer.positionCount = numPoints;
+        bottomRenderer.positionCount = numPoints;
         waterHeights = new float[numPoints];
         edgeHog.points = new Vector2[numPoints];
         waveHogs = new List<WaveHog>();
