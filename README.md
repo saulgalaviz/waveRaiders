@@ -3,8 +3,13 @@ Collaborated with 4 others at the 2017 Global Game Jame to create a 2-player com
 
 Worked on menu interface as well as a play-tester for the game.
 
+-----------------------------------------------------------------------------------------------  
+
 Concepts: Video Game Design
 
 Tools: Unity
 
 Languages: C#
+
+# Demo
+On The website link above.
